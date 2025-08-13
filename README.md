@@ -107,20 +107,20 @@
 
 <section id="nosotros">
     <h2>Sobre Nosotros</h2>
-    <p>En <strong>El Rincón del Bebé</strong> nos apasiona ofrecer productos de calidad para los más pequeños del hogar. Cada artículo es escogido con cariño y pensando en la comodidad y seguridad de tu bebé.</p>
+    <p>En <strong>El Rincón del Bebé</strong> nos apasiona ofrecer productos de calidad para los más pequeños del hogar. Cada artículo es escogido con cariño y pensando en la comodidad y seguridad de tu bebé y aca no nos olvidamos de mamá aca podras encontrar articulos para ti mamá.</p>
 </section>
 
 <section id="ubicacion">
     <h2>Ubicación</h2>
-    <p>Nos encontramos en San José, Costa Rica.</p>
+    <p>Nos encontramos en Cartago, Costa Rica.</p>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.153463125387!2d-84.0907246845628!3d9.928069492895998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e31b5b5fba51%3A0xb1d7339c70e9e8a0!2sSan%20Jos%C3%A9%2C%20Costa%20Rica!5e0!3m2!1ses!2scr!4v1682163130841!5m2!1ses!2scr"></iframe>
 </section>
 
 <section id="contacto">
     <h2>Contacto</h2>
-    <p>📞 Teléfono: +506 8888 8888</p>
+    <p>📞 Teléfono: +506 8963 7337</p>
     <p>📱 WhatsApp: <a href="https://wa.me/50688888888" target="_blank">Escríbenos aquí</a></p>
-    <p>📧 Email: contacto@elrincondelbebe.com</p>
+    <p>📧 Email: contacto@jorocumarin@gmail.com</p>
 </section>
 
 <footer>
